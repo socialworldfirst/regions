@@ -217,9 +217,66 @@
     text-decoration: none;
     border-bottom: 1px dotted var(--text3);
   }
+
+  /* GATE */
+  .gate {
+    position: fixed;
+    inset: 0;
+    background: var(--charcoal);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    padding: 20px;
+  }
+  .gate-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 28px 24px 22px;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+  }
+  .gate-card h2 {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    margin-bottom: 4px;
+  }
+  .gate-card p {
+    font-size: 12px;
+    color: var(--text2);
+    margin-bottom: 18px;
+  }
+  .gate-input {
+    width: 100%;
+    padding: 11px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+    transition: border 0.12s;
+  }
+  .gate-input:focus { border-color: var(--charcoal); }
+  .gate-err {
+    color: var(--launching);
+    font-size: 11px;
+    margin-top: 8px;
+    min-height: 14px;
+  }
+  .gated #wrap, .gated .hdr, .gated .filters, .gated .footer { display: none !important; }
 </style>
 </head>
-<body>
+<body class="gated">
+<div class="gate" id="gate">
+  <div class="gate-card">
+    <h2>Regional Status</h2>
+    <p>Enter password to view</p>
+    <input type="password" class="gate-input" id="gate-input" autocomplete="off" autofocus placeholder="password">
+    <div class="gate-err" id="gate-err"></div>
+  </div>
+</div>
 <div class="hdr">
   <h1>Regional Status</h1>
   <div class="sub">WF central KOL/marketing pipelines · per-region snapshot</div>
@@ -246,8 +303,39 @@
 </div>
 
 <script>
+// === Gate (client-side only, see GitHub source) ===
+(function gate() {
+  const PW = 'nerds';
+  const KEY = 'regions-gate-v1';
+  const gateEl = document.getElementById('gate');
+  const input = document.getElementById('gate-input');
+  const err = document.getElementById('gate-err');
+
+  function unlock() {
+    sessionStorage.setItem(KEY, '1');
+    document.body.classList.remove('gated');
+    gateEl.style.display = 'none';
+  }
+
+  if (sessionStorage.getItem(KEY) === '1') {
+    unlock();
+    return;
+  }
+
+  input.addEventListener('keydown', e => {
+    if (e.key !== 'Enter') return;
+    if (input.value.trim().toLowerCase() === PW) {
+      unlock();
+    } else {
+      err.textContent = 'Nope';
+      input.value = '';
+      input.focus();
+    }
+  });
+})();
+
 const DATA = {
-  "updated": "2026-05-07T12:18:52",
+  "updated": "2026-05-07T13:06:04",
   "regions": [
     {
       "name": "Vietnam",
