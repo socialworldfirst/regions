@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "description": "Regional context store. Source of truth for the WF regional KOL/marketing pipeline. Each region has its own JSON file under this directory. Order in `order` controls dashboard + library display order.",
+  "order": [
+    "vietnam",
+    "malaysia",
+    "singapore",
+    "thailand",
+    "philippines",
+    "uk",
+    "us",
+    "eu",
+    "korea",
+    "japan",
+    "australia",
+    "sea_other"
+  ],
+  "statusOptions": ["Launching", "Active", "Planning", "Quiet"],
+  "fields": {
+    "card": "Required. Summary fields for dashboard view.",
+    "extended": "Optional. Rich structured context for library view (market data, scorecards, products, regional playbooks, KOL programs, media partners, etc.)",
+    "sources": "Optional. List of meetings, decks, docs that fed into this region's intel."
+  }
+}

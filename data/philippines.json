@@ -1,0 +1,36 @@
+{
+  "id": "philippines",
+  "name": "Philippines",
+  "card": {
+    "lead": "Joshua Chee (managing alongside Singapore)",
+    "status": "Quiet",
+    "initiative": "On hold — product choke point",
+    "budget": "Paused",
+    "lastTouch": "2026-05-12",
+    "lastTouchNote": "Covered in Joshua sync",
+    "situation": "Reach is not the issue (Emily's ~$2K paid drove 1,200 ranches last month — top in SEA), but conversion is blocked at the product layer. PH freelancer audience is overwhelmingly third-party fund collection (work outside Upwork/Fiverr), and WF freelancer product only supports Upwork/Fiverr. Upwork/Fiverr themselves have 20% commission and accumulation-then-bulk-withdraw behavior, so even where WF technically fits, friction is high. Joshua holding spend until Risk opens up third-party fund collection for freelancers. Vietnam freelancer launch may pressure-test the same product limits — worth monitoring.",
+    "asks": [
+      "Track Risk team's progress on third-party fund collection for freelancers",
+      "Cross-share Vietnam freelancer launch findings (Thao) with Joshua so PH can ride momentum once unblocked",
+      "When product opens up: hire SEA freelancers as paid UGC reviewers ($10K test) — concept Steven floated, authentic LLM-feeding reviews"
+    ],
+    "next": [
+      "Wait on Risk product change before reactivating PH KOL spend",
+      "Continue Singapore investment; PH is paused not closed"
+    ],
+    "benchmarks": [
+      "~$2K paid → 1,200 ranches/month (top SEA reach efficiency)",
+      "LZero (registration) is the actual choke point, not awareness"
+    ]
+  },
+  "extended": {
+    "blockerType": "product",
+    "blockerOwner": "Risk team",
+    "blockerDescription": "WF freelancer product only supports Upwork/Fiverr collections. PH freelancer market is overwhelmingly third-party (private clients, direct contracts). Opening 3rd-party fund collection is the unlock.",
+    "creatorEcosystem": "Big on Facebook + TikTok; Facebook Messenger is their WhatsApp",
+    "unblockedConcept": "Hire SEA freelancers as paid UGC reviewers, $10K test, generates authentic LLM-feeding reviews"
+  },
+  "sources": [
+    {"type": "meeting", "title": "Joshua Chee sync (PH portion)", "date": "2026-05-12"}
+  ]
+}

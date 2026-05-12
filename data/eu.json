@@ -1,0 +1,18 @@
+{
+  "id": "eu",
+  "name": "EU",
+  "card": {
+    "lead": "TBD",
+    "status": "Quiet",
+    "initiative": "",
+    "budget": "",
+    "lastTouch": "",
+    "lastTouchNote": "",
+    "situation": "No active KOL initiative tracked. Update when there's news.",
+    "asks": [],
+    "next": [],
+    "benchmarks": []
+  },
+  "extended": {},
+  "sources": []
+}

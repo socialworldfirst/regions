@@ -1,0 +1,46 @@
+{
+  "id": "malaysia",
+  "name": "Malaysia",
+  "card": {
+    "lead": "Joan Poon",
+    "status": "Planning",
+    "initiative": "Brand awareness → July onshore launch",
+    "budget": "TBD (Joan to brief; benchmark vs Singapore expected lower)",
+    "lastTouch": "2026-05-12",
+    "lastTouchNote": "49 min strategy sync",
+    "situation": "H1 positioning = WorldFirst as the main payment option to China. Mass-market T3/T4 focus, geographic concentration in KL, Selangor, Johor, Penang, Perak. Multi-ethnic market: Malays trust Malay KOLs strongly; Chinese community is its own track (Malaysian-Chinese specifically, not mainland Chinese in Malaysia, for business reasons since mainland Chinese register on WF's Chinese platforms). KOL model is mixed-language, mixed-ethnicity. Pre-July = offshore (KOLs only, no acquisition CTA on brand channels, no affiliate tracking). Post-July = onshore, affiliate links and acquisition tracking turn on. Three audience cuts under discussion: 1688 buyers (broad), payment-to-China importers (B2B, hard via social), e-commerce coaches (niche, high LTV). Steven validated Joan's pivot away from 1688-only messaging (1688 platform adding payment options + hiding pricing = WF acquisition deepening).",
+    "asks": [
+      "Pull Malaysian Chinese community research via Chinese agency network (WeChat / Xiaohongshu / Mandarin YouTube + IG creators in MY) — Joan specifically asked",
+      "Review Joan's KOL brief (forthcoming) and feed back",
+      "Provide Joan budget benchmark input vs other regions",
+      "Add Joan to Sprout Social",
+      "Brief Emily / TikTok SEA: any Malaysia KOL deal must send Collab Invite to TikTok SEA account for boosting"
+    ],
+    "next": [
+      "Joan drafts brief with Web TV Asia (agency, has MY office, previously used for Korea)",
+      "Steven supplies Chinese-community research + budget benchmark",
+      "July: brand channel goes onshore in MY, acquisition tracking enabled"
+    ],
+    "benchmarks": [
+      "Malaysia is not price-sensitive unless user is primed; convenience > price for most segments",
+      "Big Chinese-community KOL (~100K+ followers) acceptable target given Alipay trust card; for Malay/Indian segments, micro-influencer mix preferred",
+      "Sourcing also expanding beyond China within SEA (Joan to test in client visits next week)"
+    ]
+  },
+  "extended": {
+    "audienceSegments": [
+      {"name": "Malaysian Chinese", "track": "primary, Alipay-trust angle, can target ~100K+ KOLs", "language": "Mandarin / English"},
+      {"name": "Malay community", "track": "ethnically-matched Malay KOLs essential, trust within community is strong", "language": "Bahasa Malay"},
+      {"name": "Mainland Chinese in MY", "track": "low priority — registers on WF China platforms not international", "language": "Mandarin"}
+    ],
+    "phasing": {
+      "preJuly": "Offshore — KOL channels only, no brand-channel CTA, no affiliate tracking",
+      "postJuly": "Onshore — affiliate links + acquisition tracking enabled"
+    },
+    "agency": "Web TV Asia (used previously for Korea, has MY office)",
+    "positioning": "H1 = 'WorldFirst as the main payment option to China'"
+  },
+  "sources": [
+    {"type": "meeting", "title": "Joan Poon strategy sync", "date": "2026-05-12", "duration_min": 49}
+  ]
+}

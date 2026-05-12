@@ -1,0 +1,30 @@
+{
+  "id": "vietnam",
+  "name": "Vietnam",
+  "card": {
+    "lead": "Thao",
+    "status": "Launching",
+    "initiative": "Freelancer GTM (end of May 2026)",
+    "budget": "~$60K Q2 (split ~$30K content / ~$30K KOL+boosting)",
+    "nfcTarget": "Freelancer = 40-50% of VN's 5,700 NFC for the year",
+    "lastTouch": "2026-05-06",
+    "lastTouchNote": "1hr kickoff call",
+    "situation": "Vietnam launching the Freelancer segment end of May, first time WF treats freelancers as a distinct audience. Big bet on the 'hire freelancers as micro-influencers' playbook (job-offer framing, fixed fee + affiliate link, real users showing $$ comparisons vs PayPal/Pioneer/PingPong). Two-track model: big TikTok KOLs ($500-$1.5K, ~$6 CPM) plus micro-influencer freelancers ($50-$500). Clean competitive lane: PingPong is deprioritizing this segment, Pioneer charges withdrawal fee + 2% to local banks. Plan: test small in June, scale July if it works.",
+    "asks": [
+      "Send Thao the PR number for the content creation budget she requested",
+      "Decide Q2 KOL budget allocation now that I own the central pool"
+    ],
+    "next": [
+      "2026-05-07: Thao's local agency briefing call",
+      "After agency call: Thao sends final budget number, then I allocate"
+    ],
+    "benchmarks": [
+      "CPM ~$6 (very efficient by global standards)",
+      "One developer KOL: 2M views for under $1K",
+      "Influencer fee range: $500-$1,500",
+      "E-commerce KOL stopped working in 2026, freelancer/developer KOL works"
+    ]
+  },
+  "extended": {},
+  "sources": []
+}

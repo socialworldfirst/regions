@@ -1,0 +1,60 @@
+{
+  "id": "singapore",
+  "name": "Singapore",
+  "card": {
+    "lead": "Joshua Chee",
+    "status": "Active",
+    "initiative": "UGC creator network → LLM citation + brand search lift",
+    "budget": "Q2 ~$20K (15 creators × 3 videos = 45 videos, same PO covers boosting)",
+    "lastTouch": "2026-05-12",
+    "lastTouchNote": "53 min sync",
+    "situation": "Singapore's H2 strategy = quality customers, not volume. Joshua running a UGC-heavy KOL playbook on Instagram + LinkedIn (ICP = business owners / CFOs, not Gen Z, so TikTok deprioritized). Q1 results: 12 KOLs / 15-18 videos / ~1K avg organic views / 2.5% avg engagement rate. Best performer: Josh Chan ($20M e-com exit, business-coach community), 3.2% engagement across 3 videos (1688, SWIFT vs local transfers, the card). Joshua's UGC thesis: brand search volume correlates ~33% with AI citations (vs traditional backlinks), so multi-voice UGC > single mega-KOL for LLM ranking. Steven aligned: YouTube + Meta dominant for AI citation. Q1 spend with boosting >$500K impressions; Q2 target >1M with boosting included. Q2 plan slipping to July; agency continues.",
+    "asks": [
+      "Boost Josh Chan videos on Meta — Joshua to send Collab Invite to brand account. Priority: local transfers + card video over 1688. Verify partnership setup, then run from central budget.",
+      "Co-author the UGC playbook with Joshua to replicate across regions",
+      "Add Joan (Malaysia) to Sprout Social"
+    ],
+    "next": [
+      "Joshua sends Meta partnership for Josh Chan video boosting",
+      "Steven sets up boost from central budget once Collab Invite lands",
+      "Joshua starts Q2 UGC round with agency, 15 creators",
+      "Generate cross-region UGC playbook"
+    ],
+    "benchmarks": [
+      "Q1 aggregate engagement: 2.5%",
+      "Best creator (Josh Chan): 3.2% engagement",
+      "UGC unit cost: $1K-$1.2K per creator × 3 videos",
+      "Q1 spend with boosting: >$500K impressions Singapore region",
+      "Q2 target with boosting: >1M impressions"
+    ]
+  },
+  "extended": {
+    "icp": "Business owners / CFOs (not Gen Z), so IG + LinkedIn primary, TikTok deprioritized",
+    "ugcThesis": "Brand search volume correlates ~33% with AI citations (vs backlinks). Multi-voice UGC > single mega-KOL for LLM ranking.",
+    "topCreator": {
+      "name": "Josh Chan",
+      "background": "$20M e-com exit, runs business-coach community",
+      "engagement": "3.2% across 3 videos",
+      "videos": ["1688", "SWIFT vs local transfers", "World Card"]
+    },
+    "q1Results": {
+      "kols": 12,
+      "videos": "15-18",
+      "avgOrganicViews": 1000,
+      "avgEngagement": 2.5,
+      "spendIncludingBoost": ">$500K impressions"
+    },
+    "q2Plan": {
+      "budget": "$20K",
+      "creators": 15,
+      "videosPerCreator": 3,
+      "totalVideos": 45,
+      "boostingFromSamePO": true,
+      "target": ">1M impressions with boosting",
+      "slipNote": "May slip to July start"
+    }
+  },
+  "sources": [
+    {"type": "meeting", "title": "Joshua Chee SEA MKTG sync", "date": "2026-05-12", "duration_min": 53}
+  ]
+}
