@@ -2,240 +2,79 @@
   "id": "thailand",
   "name": "Thailand",
   "card": {
-    "lead": "TBD (owner of H2 2025 TH Marketing Plan, name not in deck)",
+    "lead": "Iris Teo",
     "status": "Active",
-    "initiative": "Roots-to-Routes (nationwide + 5-region playbook), Influencer Affiliate Program",
-    "budget": "Per H2 2025 plan (figures not disclosed in deck)",
-    "lastTouch": "2026-05-12",
-    "lastTouchNote": "Received H2 2025 marketing plan deck, 60 pages",
-    "situation": "WF entered TH mid-2025, already captured 1.1% market share. THB launch shipped July 2025 (so onshore in TH now). Total TH B2B cross-border payment market: $80B (2025), 7.1% CAGR. Banks (SCB 21%, KBank, BBL) hold ~62% (down from 70%); fintechs ~45% combined. WISE is #4 (~8.9%), Payoneer ~6.7%, Airwallex/PingPong/LianLian smaller. WF scorecard: lowest in Market Share (1/5), Product Awareness (2/5), User Understanding (2/5); strongest in SME features, E-com/ERP integration, API, Scalability, Card Support, Contract Flexibility, Product Breadth (all 5/5). THB Support / Local Payout sits at 3 (parity with global fintechs, weaker than local banks).",
+    "initiative": "Supplier-payment focus, event-led acquisition, waiting on pay-to-Chinese-bank product unlock",
+    "budget": "Lean. Central to test ~$300 lead-gen boost for June 9 event.",
+    "lastTouch": "2026-05-18",
+    "lastTouchNote": "25 min sync with Iris Teo",
+    "situation": "Reality is far more product-constrained than the H2 2025 deck implied. Iris Teo owns TH marketing. Onboarding requires face-to-face verification (Iris: 'it sucks') — same product choke pattern as Philippines. Only 2 sellable products right now: Pay to China + 1688, and payment is Alipay-only — cannot pay Chinese bank accounts yet. Pay-to-Chinese-bank launch is ~a few months out (targeting ~July, per BGO). Iris deliberately holding heavy social/influencer spend until that unlock, to avoid burning budget on a product people try and can't use. Marketing focus is supplier payment only (1688 + B2B direct sourcing recurring), NOT e-commerce collection — Thailand is a LOCAL marketplace market (Lazada/TikTok/Shopee, source from China sell in-country), unlike Vietnam's cross-border e-com base. Importer audience: ~60% pure Thai, ~40% Chinese UBO (Chinese UBO = huge volume, KA-driven not a social channel). Existing WF TH users: ~5% T0-T1 (B2B collection), rest T1-T4 supplier payment. Two events/month requirement (one lead-gen, one WF doc-submission workshop because onboarding is hard); Iris's struggle is filling events.",
     "asks": [
-      "Identify TH marketing lead (who owns this plan day-to-day) and add to regions card",
-      "Cross-check H2 2025 Influencer Affiliate Program execution status — was it launched? what NFC/CPA actuals?",
-      "Verify TH localization status: blog ('early-stage' in plan), Thai social ('just launched'), Thai site is live",
-      "Compare TH influencer plan against SG (Joshua) UGC playbook and VN (Thao) freelancer playbook — TH has the most developed influencer affiliate program in the SEA cohort; harvest learnings",
-      "Sprout Social access for TH lead once identified"
+      "Set up central-budget lead-gen boost for Iris's June 9 event (~$300 test, Luma-tracked registrations). Check whether central has ad control over WF SEA FB page (Roshini handles it) — likely create a separate post on the global page and boost it for TH region",
+      "Wait for pay-to-Chinese-bank product unlock before influencer push. Prep influencer pipeline ~1 month ahead (if July launch, start June)",
+      "Explore dedicated Thailand Facebook PAGE (Thai language), Vietnam-style — Iris blocked on content volume (no 1688 video yet, no weekly cadence). Solve via repurposing SEA/global content into Thai",
+      "Connect with Iris's local agency (Innosense) if English-speaking, to kick off influencer prep",
+      "Iris to send event post + registration link; Iris to confirm pay-to-Chinese-bank timing with BGO"
     ],
     "next": [
-      "Identify TH lead and schedule sync",
-      "Pull TH content/campaign performance from current state (Sprout, internal dashboards) to compare against H2 2025 plan targets",
-      "Map TH plan's 5-region playbook to current calendar / production pipeline",
-      "Confirm TH plan is still active for 2026 or a refresh is in flight"
+      "Steven sets up June 9 event boost from central budget (new-channel test, no guarantee)",
+      "Iris sends event details + Luma registration link",
+      "Wait on pay-to-Chinese-bank signal before scaling influencer / paid social",
+      "Iris + Rashini producing 1688 how-to videos (account binding is hard) — repurpose for Thai channel",
+      "Revisit Thai FB page once content cadence is solvable"
     ],
     "benchmarks": [
-      "TH B2B cross-border payment market: $80B (2025), 7.1% CAGR",
-      "WF market share: 1.1% (mid-2025 entry)",
-      "Banks dominant: SCB 21%, KBank 17.8%, BBL 23.3% combined ~62%",
-      "WISE #4 fintech (~8.9%), Payoneer ~6.7%",
-      "Competitor annual marketing spend: SCB 80M THB, BBL 70M, KBank 60M, Wise 7M, PingPong 5M, Aspire 4.5M, Payoneer 5M, Airwallex 3M, LianLian 3M",
-      "SMEs: 3.7M total (84.7% Micro / 13.6% Small / 1.7% Medium); ~48% of trade value",
-      "Influencer Affiliate reward: ฿1,000-2,000 per NFC + tiered bonuses (10 NFC = +฿3,000), iPhone for top performer"
+      "April 2026 TikTok KOL test (Innosense agency, 2 micro KOLs): 45,900 combined followers, 2,068 views, 1,729 reach, 197 engagement, 9.53% ER",
+      "Top performer longtunhand (24K followers): 1,468 views, 9.26% ER — storytelling/real-user content",
+      "Underperformer iiwsnarintorn / Narintorn (21.9K, China-Thai biz CFO): 600 views, 10.17% ER — weak opening, unnatural voiceover",
+      "Agency ~$300 buys 20-30 companies to a partnership event (Iris's current benchmark)",
+      "TH H2 2025 deck (older context): $80B market, WF 1.1% share, banks ~62%, WISE #4"
     ]
   },
   "extended": {
-    "market": {
-      "size2025": "$80B B2B cross-border payment volume",
-      "growth": "7.1% CAGR (2020 $55B → 2025 $80B)",
-      "shiftBanksToFintech": "Banks 70% → 62%; Fintechs 30% → 45%"
+    "leadConstraints": {
+      "onboarding": "Face-to-face verification required, small team to do it. Iris: 'to be frank, it sucks.' Same product-choke pattern as Philippines.",
+      "sellableProductsNow": ["Pay to China", "1688"],
+      "paymentLimitation": "Alipay-only. Cannot pay to Chinese bank accounts yet.",
+      "unlockPending": "Pay-to-Chinese-bank launch ~a few months out (target ~July, per BGO). The gate for scaling social/influencer.",
+      "marketingScope": "Supplier payment only (1688 + B2B direct sourcing recurring). NOT e-com collection."
     },
-    "marketShare2025": {
-      "SCB": 21.1,
-      "BBL": 23.3,
-      "KBank": 17.8,
-      "WISE": 8.9,
-      "Payoneer": 6.7,
-      "Airwallex": 5.6,
-      "LianLian": 3.3,
-      "PingPong": 2.6,
-      "Aspire": 2.0,
-      "WorldFirst": 1.1
+    "audienceReality": {
+      "thailandIsLocalMarket": "Local marketplace sellers (Lazada/TikTok/Shopee), source from China, sell in-country. NOT cross-border like Vietnam.",
+      "importerSplit": "~60% pure Thai, ~40% Chinese UBO",
+      "chineseUBO": "Huge volume, KA-driven (needs KA team to pitch), not a social/marketing channel. Focus social on Thai-speaking.",
+      "existingUsers": "~5% T0-T1 (B2B collection), rest T1-T4 supplier payment (1688 or paying other countries)",
+      "collectionMisfit": "VA collection doesn't resonate with T3/T4 Thai — they want invoicing / PayPal-like. Big exporters need wire transfer + bank loans/credit (bank competition)."
     },
-    "products": [
-      {
-        "name": "Pay to China",
-        "tagline": "Instant CNY Payments to 1688 & Suppliers",
-        "problem": "Thai SMEs face delays and high FX fees when importing from China",
-        "solution": "Pay directly to 1688.com and Chinese suppliers in CNY through local Chinese rails",
-        "impact": "Save 2-5% on FX & transaction fees, same-day settlement, eliminate sourcing agents"
-      },
-      {
-        "name": "World Card",
-        "tagline": "No FX Fees + Cashback on Global Business Spend",
-        "problem": "Thai businesses pay 2-3.5% extra for foreign expenses (ads, subscriptions, travel)",
-        "solution": "Multi-currency business card with no FX fees and up to 1% cashback",
-        "impact": "Reduce cost for marketing, earn cashback on global spend, real-time control and report"
-      },
-      {"name": "Multi-currency Account (World Account)"},
-      {"name": "Bulk Transfer (Batch Global Payments)"}
-    ],
-    "scorecard": {
-      "criteria": ["Market Share", "Product Awareness", "User Understanding", "Multi-Currency Capability", "THB Support / Local Payout", "Onboarding Simplicity", "SME-Focused Features", "E-commerce / ERP Integration", "FX Fees Competitiveness", "Product Breadth (B2B Tools)"],
-      "WorldFirst": [1, 2, 2, 4, 3, 4, 5, 5, 4, 5],
-      "SCB":        [5, 5, 5, 3, 5, 4, 5, 5, 3, 5],
-      "KBank":      [4, 4, 4, 3, 5, 4, 5, 4, 4, 4],
-      "BBL":        [4, 4, 4, 5, 4, 3, 4, 4, 3, 4],
-      "WISE":       [3, 4, 3, 5, 3, 5, 4, 5, 5, 4],
-      "Payoneer":   [3, 3, 3, 4, 4, 4, 4, 4, 4, 4],
-      "Airwallex":  [2, 3, 3, 4, 3, 4, 3, 5, 4, 5],
-      "PingPong":   [2, 2, 2, 5, 5, 4, 4, 4, 4, 4],
-      "LianLian":   [2, 2, 2, 4, 3, 4, 5, 4, 4, 5],
-      "Aspire":     [1, 2, 2, 4, 2, 5, 5, 5, 4, 4]
+    "channelReality": {
+      "youtube_linkedin": "Biggest WF followers, but LinkedIn = corporate/employees not SME owners",
+      "facebook": "Where the actual customers are",
+      "tiktok": "Entertainment-skewed, harder to target, but April KOL engagement was strong (9.53% ER)",
+      "recommendation": "TH playbook leans Vietnam-style (own niche, Thai-language dedicated FB page) NOT Singapore/Malaysia (English-OK). Steven recommends a dedicated Thai FB PAGE."
     },
-    "audience": {
-      "totalSMEs": 3731109,
-      "breakdown": {
-        "Micro": {"count": 3158782, "pct": 84.68, "characteristics": "<5 employees, ≤THB 1.8M revenue/year"},
-        "Small": {"count": 508537, "pct": 13.63, "characteristics": "6-50 employees, ≤THB 100M revenue/year"},
-        "Medium": {"count": 63790, "pct": 1.71, "characteristics": "51-200 employees, ≤THB 500M revenue/year"}
-      },
-      "industryMix": {"Wholesale/Retail": 44, "Services": 37, "Manufacturing": 18},
-      "expansionAudience": {
-        "label": "Plan-to-be Business Owner",
-        "annualSize": "500K-700K individuals/year planning to launch",
-        "crossBorderInterest": "25%",
-        "ecomIntent": "40-50%"
-      }
-    },
-    "regionalPlaybook": [
-      {
-        "region": "Central",
-        "provinces": "Bangkok, Nonthaburi, Samut Prakan",
-        "industries": "E-commerce, logistics, manufacturing, retail tech",
-        "tradeVolumeMillion": 210000,
-        "tradeShare": "40-50%",
-        "campaign": "Factory Floors to Global Stores: Digital Growth Hub",
-        "concept": "Position WorldFirst as the premier partner for digitally mature SMEs aiming to expand internationally",
-        "activities": ["Interactive webinars (monthly, success stories)", "Strategic partnerships with platforms like Shopify"]
-      },
-      {
-        "region": "Northeast (Isan)",
-        "provinces": "Khon Kaen, Nakhon Ratchasima, Ubon Ratchathani",
-        "industries": "Agriculture, food processing, silk, OTOP, social commerce",
-        "tradeVolumeMillion": 48000,
-        "tradeShare": "28% of micro/small enterprise exports",
-        "campaign": "Local Goods to Global Hoods: Isan SMEs Go Inter",
-        "concept": "Encourage local SMEs to explore international markets via relatable success stories and educational resources",
-        "activities": ["Community workshops with local chambers", "Localized content in Isan dialect", "Influencer collabs with local voices", "Radio sponsorships"]
-      },
-      {
-        "region": "North",
-        "provinces": "Chiang Mai, Chiang Rai, Lamphun",
-        "industries": "Handicrafts, herbal products, agro-processing, boutique exports",
-        "tradeVolumeMillion": 38000,
-        "tradeShare": "10-15% of exports, SME-skewed",
-        "campaign": "Crafted Hands to Worldwide Brands: Crafting Global Connections with Creativity",
-        "concept": "Highlight the region's unique crafts and products, positioning WorldFirst as the bridge to global markets",
-        "activities": ["Artisan fair sponsorships", "Creative-hub seminar collabs", "Artisan social challenges"]
-      },
-      {
-        "region": "South",
-        "provinces": "Phuket, Songkhla, Surat Thani",
-        "industries": "Tourism, seafood processing, border trade (Malaysia), seasonal retail",
-        "tradeVolumeMillion": 32000,
-        "tradeShare": "22-31% (micro/small)",
-        "campaign": "Seaside Fields to Border Bills: Southern SMEs Sailing Internationally",
-        "concept": "Leverage region's maritime and tourism strengths to promote int'l trade opportunities",
-        "activities": ["Tourism industry seminars", "Export-readiness programs (seafood/handicrafts)", "Port collabs", "Seasonal campaigns"]
-      },
-      {
-        "region": "East (EEC)",
-        "provinces": "Chonburi, Rayong, Chachoengsao",
-        "industries": "Automotive, electronics, petrochemicals, industrial exports",
-        "tradeVolumeMillion": 57000,
-        "tradeShare": "High-value, $57B",
-        "campaign": "Assembly Lines to Tech Heights: Industrial Evolution, Eastern SMEs in the Global Arena",
-        "concept": "Support industrial SMEs in EEC to expand global footprint",
-        "activities": ["Industry conferences", "Whitepapers + case studies", "BOI/EEC training programs", "Targeted digital campaigns"]
-      }
-    ],
-    "communicationInsights": {
-      "financialLiteracy": "48.6% (below OECD 65.7%)",
-      "industryExpertImpact": "77% of SMEs influenced by trusted industry-expert endorsements",
-      "communityInfluence": "85% of provider choice influenced by community",
-      "linePresence": "5M LINE OA accounts in TH, 90% are SMEs",
-      "firstMoverGap": "Few competitors engage Thai KOLs/KOCs in B2B cross-border — first-mover advantage"
-    },
-    "engagementStrategy": {
-      "name": "Roots to Routes",
-      "pillars": [
-        {"name": "Nationwide Campaign", "reach": "high", "relevance": "low", "kpis": ["Brand awareness lift", "Impressions & reach", "Earned media", "Influencer engagement", "Event attendance", "Web traffic"]},
-        {"name": "Community Advocate", "reach": "low", "relevance": "high", "audience": "Cross-border SMEs (B2B & B2C), E-com sellers, Brand.com", "kpis": ["Community membership", "Engagement rate", "UGC", "Referral leads", "NPS"]},
-        {"name": "Paid Acquisition", "reach": "low", "relevance": "low", "channels": "Google + Meta (MQL: registration/CPL/NFC), Adtech partnerships (Kerry Express parcel media, BTS Group data partnership)", "kpis": ["Conversions", "Conversion rate", "ROAS", "Segmented performance"]},
-        {"name": "Local Initiative", "reach": "high", "relevance": "high", "activities": ["Partner with local chambers", "Event sponsorships at local trade fairs", "Community-driven webinars", "Specific-region campaigns", "Content in local dialect"], "kpis": ["Event attendance/footfall", "Campaign engagement", "Content consumption", "Conversion uplift", "Brand recall"]}
-      ]
-    },
-    "influencerAffiliateProgram": {
-      "tiers": [
-        {"tier": 1, "label": "Mass awareness", "count": "1-2 macro", "examples": ["Longtunman (1.36M FB)", "Zoe"]},
-        {"tier": 2, "label": "Engagement", "count": "10-20 mid-tier niche KOLs", "examples": ["Business coaches", "SME experts"]},
-        {"tier": 3, "label": "Conversion", "count": "30+ micro/nano", "examples": ["Real users", "Niche experts"]}
+    "aprilKolCampaign": {
+      "agency": "Innosense",
+      "platform": "TikTok",
+      "objective": "Raise product collection awareness",
+      "kols": [
+        {"handle": "longtunhand", "name": "ลงทุนแฮนด์ Longtunhand", "followers": 24000, "views": 1468, "reach": 1200, "engagement": 136, "er": "9.26%", "verdict": "TOP — storytelling, real user experience, feels meaningful not promotional", "link": "https://vt.tiktok.com/ZSHHEQWa8/", "audience": "77% male, returning-viewer heavy"},
+        {"handle": "iiwsnarintorn", "name": "Narintorn (王娜琳) — China-Thai biz, CFO/COO PrimoLive", "followers": 21900, "views": 600, "reach": 529, "engagement": 61, "er": "10.17%", "verdict": "UNDERPERFORMER — unengaging opening, unnatural voiceover, uninteresting editing", "link": "https://www.tiktok.com/@iiwsnarintorn/video/7624012346490391828"}
       ],
-      "rewards": {
-        "perNFC": "฿1,000-2,000",
-        "bonusTiers": "10 NFC = +฿3,000",
-        "topPerformer": "Cash or iPhone"
-      },
-      "channels": ["Facebook", "YouTube", "TikTok", "Instagram", "LINE", "Blogs"],
-      "contentTypes": ["Tutorials (how to use WorldFirst)", "Testimonials / case studies", "'Why I use WorldFirst'", "Pay to China use case (1688)", "Comparisons (vs Wise, local banks)"],
-      "hashtags": ["#WorldFirstTH", "#SMEถึงรู้", "#จ่ายเงินจีนง่ายๆ", "#รับเงินต่างประเทศไม่เสียค่าธรรมเนียม"],
-      "phases": ["Planning", "Recruitment & Setup", "Content Creation & Publication", "Monitoring & Optimization", "Scaling & Retention"]
+      "totals": {"followers": 45900, "views": 2068, "reach": 1729, "engagement": 197, "er": "9.53%"},
+      "sentiment": "Generic + positive. Comments express interest in the app + appreciation for KOLs.",
+      "agencySuggestion": "Multi-platform expansion, more audio-visual TikTok volume with strong hooks",
+      "trendTarget": "KOLs who teach selling internationally (Amazon/TikTok Shop), import-export entrepreneurs with real multi-currency experience, freelancers receiving international payments, SME founders"
     },
-    "paidMediaPlan": {
-      "platforms": ["Meta", "Google Search (SEM)"],
-      "productFunnels": [
-        {"product": "Cross-border payment", "tofuReach": "2.5M-3.2M", "mofuReach": "250K-400K", "bofuReach": "80K-100K"},
-        {"product": "Multi-currency account", "tofuReach": "1.8M-2.3M", "mofuReach": "150K-300K", "bofuReach": "50K-80K"},
-        {"product": "Virtual World Card", "tofuReach": "1.5M-1.8M", "mofuReach": "100K-200K", "bofuReach": "30K-50K"},
-        {"product": "Pay to China", "tofuReach": "2.0M-2.5M", "mofuReach": "200K-300K", "bofuReach": "70K-90K"},
-        {"product": "Bulk Transfer", "tofuReach": "900K-1.2M", "mofuReach": "80K-120K", "bofuReach": "10K-20K"}
-      ],
-      "semAdGroups": [
-        {"group": "World Account", "ctaFocus": "Account sign-up", "thaiKeywords": "เปิดบัญชีรับเงิน, รับเงินจากต่างประเทศ"},
-        {"group": "World Card", "ctaFocus": "Card usage + cashback CTA", "thaiKeywords": "virtual card Thailand, บัตรกดเงิน worldfirst, ใช้จ่ายออนไลน์"},
-        {"group": "Pay to China", "ctaFocus": "Price comparison + trust", "thaiKeywords": "โอนเงินไปจีน, pay to China cheap, ส่งเงินไปจีนทางไหนดี"},
-        {"group": "FX for Business", "ctaFocus": "Transparent FX advantage", "thaiKeywords": "business FX, เรทโอนเงินดี, อัตราแลกเปลี่ยน SME"},
-        {"group": "Global Sellers Tools", "ctaFocus": "Case studies + testimonials", "thaiKeywords": "tools for ecommerce sellers, บัญชีรับเงินจากต่างประเทศสำหรับ Shopee/Lazada"}
-      ]
-    },
-    "competitorCommStrategy": [
-      {"name": "SCB", "annualSpendTHB": "80M", "strategy": "Professional, reassuring, solution-oriented. Biz continuity + global reach", "valueProp": "All-in-one biz banking, FX, payroll, 24/7 app", "media": "Digital ads, social, PR, events, print, TV, search, YouTube"},
-      {"name": "KBank", "annualSpendTHB": "60M", "strategy": "Upbeat, SME-focused, casual online + pro PR", "valueProp": "Free-fee digital biz platform, high transfer limits, payroll", "media": "TV, search, digital, webinars, influencer, social, community events"},
-      {"name": "Bangkok Bank", "annualSpendTHB": "70M", "strategy": "Trust-based, traditional, stability + full-service", "valueProp": "Full treasury/FX, SWIFT, BAHTNET, multi-currency deposits", "media": "TV, print, economic forums, LinkedIn, limited digital"},
-      {"name": "Wise", "annualSpendTHB": "7M", "strategy": "Transparent, slightly playful, simplicity + cost-saving", "valueProp": "Multi-currency account, low FX, mid-market rate", "media": "Search, blogs, social, PR, SEO, no traditional"},
-      {"name": "Payoneer", "annualSpendTHB": "5M", "strategy": "Aspirational, professional. Promotes global biz growth for freelancers/SMEs", "valueProp": "Marketplace payouts, USD/EUR/GBP setup, fast TH withdrawals", "media": "Social ads, webinars, YouTube, blogs, Amazon partnerships"},
-      {"name": "Airwallex", "annualSpendTHB": "3M", "strategy": "Tech-forward, aspirational, startups/SME founders", "valueProp": "Financial OS, FX, global biz account, multi-layer controls", "media": "OOH, search/social, fintech expos, digital PR, video"},
-      {"name": "PingPong", "annualSpendTHB": "5M", "strategy": "B2B-focused, straightforward, global compliance + FX", "valueProp": "Cross-border payout accounts for e-com, audit trail, treasury control", "media": "Google Ads, LinkedIn, webinars, B2B expos, limited traditional"},
-      {"name": "LianLian Pay", "annualSpendTHB": "3M", "strategy": "Formal, service-oriented, global reach + low-cost ops", "valueProp": "Multi-currency, rapid supplier payments, PromptPay refunds", "media": "Trade portal banners, Facebook, FedEx co-marketing, digital-only"},
-      {"name": "Aspire", "annualSpendTHB": "4.5M", "strategy": "Modern, tech-savvy, appeals to startups/finance teams", "valueProp": "Corporate cards, multi-currency, expense automation, startup-ready APIs", "media": "Search, blog, LinkedIn, startup hubs, co-working events, referrals"}
-    ],
-    "mediaReadinessChecklist": [
-      {"provider": "SCB", "website": "Yes", "blog": "No", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Moderate"},
-      {"provider": "KBank", "website": "Yes", "blog": "Yes (Newsroom)", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Strong"},
-      {"provider": "Bangkok Bank", "website": "Yes", "blog": "No", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Traditional"},
-      {"provider": "Wise", "website": "Global (TH content)", "blog": "Yes", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Best-in-Class"},
-      {"provider": "Payoneer", "website": "Global", "blog": "Yes", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Strong"},
-      {"provider": "Airwallex", "website": "Global", "blog": "Yes", "socialTH": "Limited in TH", "contentStrategy": "Developer Focused"},
-      {"provider": "PingPong", "website": "Limited", "blog": "Yes", "socialTH": "Global only", "contentStrategy": "Niche + China-focused"},
-      {"provider": "LianLian Pay", "website": "Thai website launched", "blog": "Yes", "socialTH": "Low engagement (FB only)", "contentStrategy": "Growing"},
-      {"provider": "Aspire", "website": "Yes (Strong TH UX)", "blog": "Yes", "socialTH": "Yes (FB/IG/YT)", "contentStrategy": "Startup-Savvy"},
-      {"provider": "WorldFirst", "website": "Yes (Thai site live)", "blog": "Early-stage", "socialTH": "Just launched TH social", "contentStrategy": "Needs scale-up"}
-    ],
-    "mediaPartners": [
-      {"name": "Beartai", "category": "Tech & Business Lifestyle", "fb": 806154, "fbFollower": 1152195, "fbEngagement": 1.3, "yt": 744000, "ytEngagement": 0.08, "tw": 126900},
-      {"name": "Spin9", "category": "Tech/Lifestyle/Travel", "fb": 222000, "fbEngagement": 0.77, "yt": 427000, "ytEngagement": 0.2, "tw": 154600, "ig": 12000},
-      {"name": "Ceemeagain", "category": "Tech/Innovation/Gadget", "fb": 863087, "fbFollower": 945269, "fbEngagement": 0.16, "yt": 654000, "ytEngagement": 9.21, "tw": 377100, "ig": 264000},
-      {"name": "THE STANDARD", "category": "News/Society/Culture", "fb": 1548652, "fbFollower": 2109619, "fbEngagement": 6.1, "yt": 1220000, "ytEngagement": 0.12, "tw": 444600, "ig": 249000, "igEngagement": 5.1},
-      {"name": "FINNOMENA", "category": "Fintech/Investment", "fb": 216408, "fbFollower": 231635, "fbEngagement": 0.25, "yt": 64500, "ytEngagement": 0.13, "ig": 3712},
-      {"name": "Money Everyday / Tax Bugnoms", "category": "Tax/Finance", "fb": 461963, "fbFollower": 488974, "fbEngagement": 0.93, "yt": 41600, "ytEngagement": 0.1, "ig": 4820},
-      {"name": "Finspace", "category": "Investment Content", "fb": 99656, "fbFollower": 107055, "fbEngagement": 0.31, "yt": 77, "ig": 647},
-      {"name": "Money Buffalo", "category": "Personal Finance / Salary", "fb": 414339, "fbFollower": 429661, "fbEngagement": 1.0, "yt": 21400, "ytEngagement": 1.32, "ig": 65400, "igEngagement": 2.6},
-      {"name": "Longtunman", "category": "Business Model / Investment / Economy", "fb": 1361459, "fbFollower": 1569985, "fbEngagement": 2.1, "yt": 25000, "ytEngagement": 2.77, "tw": 87100, "ig": 293000, "igEngagement": 2.5},
-      {"name": "CEO Channels", "category": "Business Strategy / Tech / Inspiration", "fb": 136831, "fbFollower": 146709, "fbEngagement": 0.013, "yt": 5280, "ytEngagement": 0.22},
-      {"name": "Ad Addict", "category": "Ad Creative", "fb": 173093, "fbFollower": 187200, "fbEngagement": 1.1, "yt": 1840, "ig": 4754, "igEngagement": 2.2},
-      {"name": "Everyday Marketing", "category": "Marketing/Data", "fb": 108419, "fbFollower": 115889, "fbEngagement": 1.9, "yt": 267, "ig": 4754}
-    ]
+    "eventMotion": {
+      "cadence": "2 events/month required",
+      "structure": "Event 1 = lead-gen (partnership team / hired organizer). Event 2 = WF workshop for doc submission (because onboarding is hard).",
+      "struggle": "Filling events with attendees",
+      "nextEvent": "June 9 2026 — central boost test (~$300, Luma-tracked) vs the usual $300-to-agency-for-20-30-companies"
+    }
   },
   "sources": [
-    {"type": "deck", "title": "TH Marketing Plan H2 2025 Completed", "path": "~/Documents/Claude/Regions/source_docs/TH Marketing Plan H2 2025 Completed.pdf", "pages": 60, "received": "2026-05-12"}
+    {"type": "meeting", "title": "Iris Teo TH marketing sync", "date": "2026-05-18", "duration_min": 25, "path": "~/Documents/Claude/Regions/source_docs/TH_Iris_Teo_sync_2026-05-18.txt"},
+    {"type": "report", "title": "TH KOL Report (Innosense, April 2026 TikTok campaign)", "date": "2026-04", "pages": 13, "path": "~/Documents/Claude/Regions/source_docs/TH_KOL_Report_Innosense_2026-04.pdf"},
+    {"type": "deck", "title": "TH Marketing Plan H2 2025 (older context, partly superseded by 2026-05-18 reality)", "date": "2025-H2", "pages": 60, "path": "~/Documents/Claude/Regions/source_docs/TH Marketing Plan H2 2025 Completed.pdf"}
   ]
 }
